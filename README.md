@@ -12,3 +12,14 @@ ULP streamlines education ecosystem processes by providing easy access to consen
 **Governments:** Governments lack visibility of the beneficiary needs to design benefits and schemes. ULP will improve visibility of beneficiary data, allowing governments to better identify and reach deserving students, ensuring they receive benefits.
 **Ecosystem:** Ecosystem players follow inefficient processes for offering and adopting benefits and schemes. ULP will ease processes and visibility for ecosystem actors, increasing participation and adoption of available benefits for deserving students.
 
+## Features
+- To be updated
+
+## Tech Stack
+To be updated
+
+## Local Setup
+To be updated
+
+## Deployment
+To be updated
